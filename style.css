@@ -19,7 +19,8 @@ body {
     align-items: center;
     flex-direction: column;
     background-color: #1e1e1e;
-    box-shadow: 20px 20px 50px 15px grey;
+    -webkit-box-shadow: 2px 2px 36px 8px rgba(0,0,0,0.63); 
+    box-shadow: 2px 2px 36px 8px rgba(0,0,0,0.63);
 }
 
 #calc-container:hover {
